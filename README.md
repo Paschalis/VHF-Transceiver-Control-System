@@ -64,11 +64,13 @@ For inquiries or potential collaborations, please contact [Your Email].
 
 ## To Do
 
-- **Implement a New Version on ATmega328P with Shift Registers:** Transition from using the Arduino Mega (ATmega2560) to a more compact ATmega328P, incorporating shift registers to manage I/O pins more efficiently.
+- [x] **Implement a default Version on ATmega2560 without Shift Registers:**
 
-- **Dual 7-Segment Display for Active and Standby Frequencies:** Develop a version that includes two 7-segment displays, one showing the active frequency and the other the standby frequency. Implement a button to switch frequencies between active and standby, enhancing operational flexibility.
+- [ ] **Implement a New Version on ATmega328P with Shift Registers:** Transition from using the Arduino Mega (ATmega2560) to a more compact ATmega328P, incorporating shift registers to manage I/O pins more efficiently.
 
-- **Rotary Encoder for Frequency Selection:** Introduce a version where frequency selection is controlled through a rotary encoder instead of a keypad. This version will also include an additional 7-segment display to show the selected frequency, providing a more intuitive user interface for frequency adjustment.
+- [ ] **Dual 7-Segment Display for Active and Standby Frequencies:** Develop a version that includes two 7-segment displays, one showing the active frequency and the other the standby frequency. Implement a button to switch frequencies between active and standby, enhancing operational flexibility.
+
+- [ ] **Rotary Encoder for Frequency Selection:** Introduce a version where frequency selection is controlled through a rotary encoder instead of a keypad. This version will also include an additional 7-segment display to show the selected frequency, providing a more intuitive user interface for frequency adjustment.
 
 ## Conclusion
 
