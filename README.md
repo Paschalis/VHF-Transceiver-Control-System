@@ -58,9 +58,9 @@ The system utilizes an Arduino board to control the 7-segment display and read i
 
 ## Author
 
-This system was developed and implemented by [Your Name], a passionate developer in the field of communication technology. With a focus on enhancing VHF transceiver usability and accuracy, this project reflects a commitment to improving communication systems.
+This system was developed and implemented by Paschalis Moschogiannis, a passionate developer in the field of communication technology. With a focus on enhancing VHF transceiver usability and accuracy, this project reflects a commitment to improving communication systems.
 
-For inquiries or potential collaborations, please contact [Your Email].
+For inquiries or potential collaborations, please contact pmoschogiannis@uth.gr.
 
 ## To Do
 
