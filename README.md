@@ -75,3 +75,7 @@ For inquiries or potential collaborations, please contact pmoschogiannis@uth.gr.
 ## Conclusion
 
 This VHF control system simplifies the process of setting frequencies on a VHF transceiver, enhancing communication efficiency and accuracy. By converting decimal inputs into BCD code, it provides a user-friendly interface for complex communication operations. The outlined future enhancements aim to further improve usability and functionality, ensuring the system remains at the forefront of communication technology advancements.
+
+## License
+
+This project is licensed under the [GNU General Public License Version 3 (GPLv3)](LICENSE).
