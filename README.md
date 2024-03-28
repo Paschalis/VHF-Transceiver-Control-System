@@ -27,6 +27,10 @@ The system utilizes an Arduino board to control the 7-segment display and read i
 
 ![Alt Text](control-body.png)
 
+<p align="center">
+  <b>IdeaMaker for printing the design from FreeCAD.</b>
+</p>
+
 1. Connect the 4x4 keypad to the Arduino according to the pin configuration specified in the code.
 2. Connect the 7-segment display to the Arduino, ensuring correct alignment with the output pins.
 3. Upload the provided Arduino sketch to the board.
